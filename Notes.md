@@ -23,7 +23,7 @@ Em Python, o comando de saída de dados é função `print()`, nela a mensagem d
 >> Igual a 5
 ```
 
-**Obs**: Note que o operador `+` realiza a concatenação de strings em Python.
+**Obs**: Note que o operador `+` realiza a **concatenação** de strings em Python.
 
 ### Atribuição
 
